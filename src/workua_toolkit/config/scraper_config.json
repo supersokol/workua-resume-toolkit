@@ -1,0 +1,9 @@
+{
+  "base_url": "https://www.work.ua/",
+  "category_city_path": "resumes-auto-transport/",
+  "sleep_between_pages": 2,
+  "sleep_between_resumes": 1,
+  "request_timeout": 10,
+  "max_retries": 3,
+  "retry_backoff_sec": 2
+}

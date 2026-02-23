@@ -1,0 +1,74 @@
+{
+  "id": 17,
+  "source_url": "https://www.work.ua/resumes/10254774/",
+  "resume_date": "2026-02-23",
+  "parse_mode": "resume_id_block",
+  "created_at": "2026-02-23 20:54:09.540109",
+  "updated_at": "2026-02-23 21:07:29.886258",
+  "parsed_json": {
+    "city": "Дніпро",
+    "salary": null,
+    "skills": [
+      "Адаптивність",
+      "Водий",
+      "Водий в",
+      "В д"
+    ],
+    "veteran": false,
+    "birthday": null,
+    "position": "Водитель кат. B, D, механик, слесарь, сварщик",
+    "education": null,
+    "from_home": false,
+    "full_time": false,
+    "languages": null,
+    "part_time": false,
+    "disability": null,
+    "person_name": "Олександр",
+    "resume_date": "2026-02-23",
+    "ready_to_work": null,
+    "additional_info": null,
+    "recommendations": null,
+    "work_experience": "Механік,водий, слесарь\nз 05.1997 по 10.2020 (23 роки 6 місяців) ч/п (Автобізнес та автосервіс)",
+    "additional_education": null,
+    "considered_positions": null
+  },
+  "processed_json": {
+    "skill_months": null,
+    "education_items": null,
+    "total_edu_years": null,
+    "total_work_years": 23.5,
+    "normalized_skills": [
+      "адаптивність",
+      "водий",
+      "водий в",
+      "в д"
+    ],
+    "driving_categories": [],
+    "extractor_warnings": [],
+    "months_by_position": [
+      {
+        "years": 23.5,
+        "months": 282,
+        "titles": [
+          "Механік,водий, слесарь"
+        ],
+        "position": "механік водий слесарь",
+        "display_position": "Механік,водий, слесарь"
+      }
+    ],
+    "work_experience_items": [
+      {
+        "end": "2020-10",
+        "city": null,
+        "start": "1997-05",
+        "title": "Механік,водий, слесарь",
+        "duties": [],
+        "months": 282,
+        "company": "ч/п",
+        "industry": "Автобізнес та автосервіс",
+        "block_text": "Механік,водий, слесарь\nз 05.1997 по 10.2020 (23 роки 6 місяців) ч/п (Автобізнес та автосервіс)",
+        "duties_text": ""
+      }
+    ]
+  }
+}

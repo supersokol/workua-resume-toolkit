@@ -133,7 +133,7 @@ The toolkit produces structured JSON artifacts at different stages of the pipeli
 
 A full example of a stored resume record:
 
-👉 `docs/examples/db_row.sample.json`
+👉 [docs/examples/db_row.sample.json](docs/examples/db_row.sample.json)
 
 This example demonstrates:
 

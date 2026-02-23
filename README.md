@@ -496,4 +496,4 @@ Issues and PRs are welcome, but please note this project is primarily a portfoli
 
 ## License
 
-MIT (see `LICENSE`).
+MIT (see [LICENSE](LICENSE)).
